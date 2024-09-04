@@ -1,2 +1,2 @@
-# Learning-Management-System
+# Academio
 A web project for schools and alike.
